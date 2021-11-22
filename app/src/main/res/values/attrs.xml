@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProfileItem">
+        <attr name="mail" format="string" />
+        <attr name="name" format="string" />
+        <attr name="imageUrl" format="string" />
+    </declare-styleable>
+</resources>
